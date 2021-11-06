@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Orel, I am a computer science student at the University of British Columbia in the BCS program. I have a bachelors degree in Criminology from Simon Fraser University. I am fairly new to the world of programming and computer science, but my current interest are CyberSecurity and Web Development.
+My name is Orel, I am a computer science student at the University of British Columbia in the BCS program. I have a bachelors degree in Criminology from Simon Fraser University. I am fairly new to the world of programming and computer science, but my current interests are CyberSecurity and Web Development.
 
 Feel free to reachout to me on linkedin:
 
